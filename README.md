@@ -1,4 +1,3 @@
-# ALU-verilog-project
 # 4-Bit ALU in Verilog
 
 ## Overview
